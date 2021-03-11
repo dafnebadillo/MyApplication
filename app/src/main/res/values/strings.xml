@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">MyApplication</string>
     <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="a_n_no_tienes_una_cuenta">¿Aún no tienes una cuenta?</string>
+    <string name="reg_strate">Regístrate</string>
+    <string name="password">Password</string>
 </resources>
